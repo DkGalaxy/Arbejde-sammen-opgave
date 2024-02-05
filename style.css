@@ -11,3 +11,12 @@ h1, h2, p {
     font-family: Comic Sans;
     color: rgb(0, 255, 0);
 }
+
+h1 {
+    font-size: 150px;
+    line-height: 1px;
+}
+
+h1:hover {
+    transform: rotate(360);
+}
