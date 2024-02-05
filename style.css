@@ -1,8 +1,13 @@
+@font-face {
+    font-family: 'Comic Sans';
+    src: url('Comic Sans MS.ttf');
+}
+
 body {
     background-color: rgb(255, 0, 255);
 }
 
 h1, h2, p {
-    font-family: ;
+    font-family: Comic Sans;
     color: rgb(0, 255, 0);
 }
